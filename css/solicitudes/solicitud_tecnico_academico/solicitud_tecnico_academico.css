@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.opciones {
+    max-width: 430px;
+    padding: 20px 60px 20px 60px;
+    border: 1px solid #ddd;
+    border-radius: 8px ;
+}
+
+.btn.red.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .btn.red.centered i {
+    margin-right: 8px; /* Espacio entre el ícono y el texto */
+  }

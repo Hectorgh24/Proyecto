@@ -1,0 +1,10 @@
+.navbar {
+    padding:0px 8px;
+}
+
+.top-bar {
+    background-color: #0d47a1; /* Color azul oscuro */
+    color: white; /* Texto blanco */
+    font-size: 16px; /* Tamaño de letra más pequeño */
+    text-align: right;
+}

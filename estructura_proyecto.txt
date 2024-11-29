@@ -1,0 +1,130 @@
+Listado de rutas de carpetas para el volumen Windows
+El número de serie del volumen es 4424-A1A1
+C:.
+│   estructura_proyecto.txt
+│   index.php
+│   
+├───.vscode
+│       settings.json
+│       
+├───css
+│   ├───inicio_sesion
+│   │       inicio_sesion.css
+│   │       
+│   ├───menu_opciones
+│   │       solicitud_tecnico_academico.css
+│   │       
+│   ├───sistema_adm
+│   │   ├───estadisticas
+│   │   ├───gestionar_adm
+│   │   ├───historial
+│   │   ├───inicio
+│   │   │       inicio.css
+│   │   │       
+│   │   ├───recursos
+│   │   └───solicitudes
+│   └───solicitudes
+│       ├───solicitud_academico
+│       │       solicitud_academico.css
+│       │       
+│       ├───solicitud_alumno
+│       │       solicitud_alumno.css
+│       │       
+│       └───solicitud_tecnico_academico
+│               solicitud_tecnico_academico.css
+│               
+├───html
+│   ├───inicio_sesion
+│   ├───sistema_adm
+│   │   ├───estadisticas
+│   │   │       estadisticas.html
+│   │   │       
+│   │   ├───gestionar_adm
+│   │   │       gestionar_adm.html
+│   │   │       
+│   │   ├───historial
+│   │   │       historial.html
+│   │   │       
+│   │   ├───inicio
+│   │   │       inicio.php
+│   │   │       
+│   │   ├───menu_opciones
+│   │   │       menu_tecnico_academico.html
+│   │   │       
+│   │   ├───recursos
+│   │   │       recursos.html
+│   │   │       
+│   │   └───solicitudes
+│   │           solicitudes.php
+│   │           
+│   └───solicitudes
+│       ├───solicitud_academico
+│       │       solicitud_academico.php
+│       │       
+│       ├───solicitud_alumno
+│       │       solicitud_alumno.php
+│       │       
+│       └───solicitud_tecnico_academico
+│               solicitud_tecnico_academico.php
+│               
+├───img
+│   ├───inicio_sesion
+│   │       uv.png
+│   │       
+│   ├───sistema_adm
+│   │   ├───estadisticas
+│   │   ├───gestionar_adm
+│   │   ├───historial
+│   │   ├───inicio
+│   │   │       portada.png
+│   │   │       uv_profile.png
+│   │   │       
+│   │   ├───recursos
+│   │   │       camara.webp
+│   │   │       desktop.webp
+│   │   │       desktop2.webp
+│   │   │       laptop.webp
+│   │   │       laptop2.webp
+│   │   │       proyector.webp
+│   │   │       router.webp
+│   │   │       
+│   │   └───solicitudes
+│   └───solicitudes
+│       ├───solicitud_academico
+│       ├───solicitud_alumno
+│       └───solicitud_tecnico_academico
+├───js
+│   ├───funcion_cerrar_sesion
+│   │       cerrarSesion.js
+│   │       
+│   ├───inicio_sesion
+│   │       incio_sesion.js
+│   │       
+│   ├───sistema_adm
+│   │   ├───estadisticas
+│   │   ├───gestionar_adm
+│   │   ├───historial
+│   │   ├───inicio
+│   │   │       inicio.js
+│   │   │       
+│   │   ├───recursos
+│   │   └───solicitudes
+│   │           solicitudes.js
+│   │           
+│   └───solicitudes
+│       ├───solicitud_academico
+│       │       solicitud_academico.js
+│       │       
+│       ├───solicitud_alumno
+│       │       solicitud_alumno.js
+│       │       
+│       └───solicitud_tecnico_academico
+└───php
+        aceptar_solicitud.php
+        cerrar_sesion.php
+        conexion_be.php
+        login_usuario_be.php
+        registro_alumno.php
+        registro_profesor.php
+        registro_tecnico_academico.php
+        
